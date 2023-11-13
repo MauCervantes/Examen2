@@ -1,0 +1,14 @@
+C:\Users\mauca\source\repos\AccesoDatosLibreria\examen2\bin\Debug\net7.0\examen2.deps.json
+C:\Users\mauca\source\repos\AccesoDatosLibreria\examen2\bin\Debug\net7.0\examen2.runtimeconfig.json
+C:\Users\mauca\source\repos\AccesoDatosLibreria\examen2\bin\Debug\net7.0\examen2.dll
+C:\Users\mauca\source\repos\AccesoDatosLibreria\examen2\bin\Debug\net7.0\examen2.pdb
+C:\Users\mauca\source\repos\AccesoDatosLibreria\examen2\obj\Debug\net7.0\examen2.csproj.AssemblyReference.cache
+C:\Users\mauca\source\repos\AccesoDatosLibreria\examen2\obj\Debug\net7.0\examen2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauca\source\repos\AccesoDatosLibreria\examen2\obj\Debug\net7.0\examen2.AssemblyInfoInputs.cache
+C:\Users\mauca\source\repos\AccesoDatosLibreria\examen2\obj\Debug\net7.0\examen2.AssemblyInfo.cs
+C:\Users\mauca\source\repos\AccesoDatosLibreria\examen2\obj\Debug\net7.0\examen2.csproj.CoreCompileInputs.cache
+C:\Users\mauca\source\repos\AccesoDatosLibreria\examen2\obj\Debug\net7.0\examen2.dll
+C:\Users\mauca\source\repos\AccesoDatosLibreria\examen2\obj\Debug\net7.0\refint\examen2.dll
+C:\Users\mauca\source\repos\AccesoDatosLibreria\examen2\obj\Debug\net7.0\examen2.pdb
+C:\Users\mauca\source\repos\AccesoDatosLibreria\examen2\obj\Debug\net7.0\examen2.genruntimeconfig.cache
+C:\Users\mauca\source\repos\AccesoDatosLibreria\examen2\obj\Debug\net7.0\ref\examen2.dll

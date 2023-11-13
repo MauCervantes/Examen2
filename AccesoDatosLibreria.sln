@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "examen2", "examen2\examen2.csproj", "{9C4FACB2-907E-42E3-9487-8162F618AEDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIWebLibreria", "APIWebLibreria\APIWebLibreria.csproj", "{1145C91F-F298-4E85-A0FB-3677DD7F8717}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C4FACB2-907E-42E3-9487-8162F618AEDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C4FACB2-907E-42E3-9487-8162F618AEDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C4FACB2-907E-42E3-9487-8162F618AEDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C4FACB2-907E-42E3-9487-8162F618AEDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1145C91F-F298-4E85-A0FB-3677DD7F8717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1145C91F-F298-4E85-A0FB-3677DD7F8717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1145C91F-F298-4E85-A0FB-3677DD7F8717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1145C91F-F298-4E85-A0FB-3677DD7F8717}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6EFC3D2-E7DD-4C4B-96D2-613B0F45D380}
+	EndGlobalSection
+EndGlobal
